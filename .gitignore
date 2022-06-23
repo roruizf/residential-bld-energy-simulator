@@ -3,6 +3,12 @@
 *.ipynb
 *.csv
 *.xlsx
+*pdf 
+/csv-files
+/excel-files
+/notebooks
+/peb-files
+/python-files/old
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

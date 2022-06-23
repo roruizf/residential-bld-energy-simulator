@@ -13,16 +13,12 @@ This code is inspired in the ´Annexe XXI –Méthode PER´ of PEB building ener
 5. Ventilation heat losses
 
 
-## 3. Net energy demand for heating and domestic hot water
+## 3. Net energy demand for heating, cooling, overheating risk and domestic hot water
 
-1. Transmission heat losses
-2. Infiltration heat losses
-3. Ventilation heat losses
-4. Solar gains
-5. Internal gains
-
-
-## 3. Overheating risk and cooling
+1. Net energy demand for heating
+2. Net energy demand for cooling
+3. Overheating risk
+4. Domestic hot water
 
 ## 4. Gross energy demand for heating and domestic hot water
 
